@@ -16,4 +16,9 @@ If the user wanted to filter the table, they simply type into one (or multiple) 
 
 ## Summary 
 
+This webpage serves its purpose of offering an interactive page full of UFO information. However, there is always room for improvement and future steps for the direction of the webpage.
+
+One drawback of the webpage is the filters are not setup well for error handling. The user has to type in the exact phrase into the box in order for the filter to work. In the image above, I typed in "Benton" and the table was filtered. However, if I mispelled it or didn't type the full name, such as "Bent", the filter would not work as intended.
+
+The future direction of the website should start by addressing this drawback. Once completed, the website could include images from each of the sightings. As much as the information is helpful, if there was an image of each sighting that would make the webpage way more interesting. Another recommendation for further development is adding additional tabs to the webpage. These tabs could innclude different information, or even videos to recent UFO sightings. Adding more tabs to this page could help make this webpage a "one stop shop" for any and all UFO sighting information.
 
