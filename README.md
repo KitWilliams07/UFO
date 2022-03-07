@@ -12,7 +12,7 @@ The main purpose of this webpage is to show UFO data in an easy to understand wa
 
 If the user wanted to filter the table, they simply type into one (or multiple) of the filter boxes and press enter. The table will automatically update to include only UFO sightings that match these filters. Below shows if you search by city name of "Benton". The table only displays cities named Benton.
 
-![alt text](https://raw.githubusercontent.com/KitWilliams07/UFO/main/UFO/static/images/website_screenshot.png)
+![alt text](https://raw.githubusercontent.com/KitWilliams07/UFO/main/UFO/static/images/city_search.png)
 
 ## Summary 
 
